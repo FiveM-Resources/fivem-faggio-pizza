@@ -14,6 +14,8 @@ poof enjoy.
 
 
 ## Copyright
+use it as your need.
+
                       --------------||Made by SuperCoolNinja||--------------
                       --------------||Thanks to Antasurris for helping me to find the pizza yolo prop.||--------------
                       
