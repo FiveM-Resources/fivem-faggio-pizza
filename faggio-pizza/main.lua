@@ -3,7 +3,7 @@
 
 
 RegisterCommand('faggio', function(source, args, rawCommand)
-    local player <const> = PlayerPedId();
+    local player = PlayerPedId();
     local x,y,z = table.unpack(GetOffsetFromEntityInWorldCoords(player, 0.0, 8.0, 0.5));
     local vehiclehash <const> = GetHashKey("faggio");
     local propHash <const> = "h4_prop_h4_box_delivery_01a";
